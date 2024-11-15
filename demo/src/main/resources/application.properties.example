@@ -1,0 +1,10 @@
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+spring.application.name=moive-web
+spring.application.version=1.0
+
+server.servlet.context-path=/api/v1
+
+spring.jpa.hibernate.ddl-auto=update
