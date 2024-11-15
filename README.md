@@ -1,9 +1,9 @@
 Spring boot + Vite/ReactJS + Flask
 
-BE: demo foler
-FE: movie-web folder
-AI: recommendation folder
-Dataset: ml-100k foler
+BE: demo foler<br>
+FE: movie-web folder<br>
+AI: recommendation folder<br>
+Dataset: ml-100k foler<br>
 Database diagram: movies_web.mwb/movies_db_diagram.png
 
 - Run BE first to create DB
